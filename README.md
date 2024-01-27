@@ -1,1 +1,1 @@
-in this repositorie only I postgo language pratice codes
+in this repositorie only I post go language pratice codes
