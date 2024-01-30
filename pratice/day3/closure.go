@@ -9,9 +9,9 @@ func main() {
 		fmt.Scan(&r1)
 		fmt.Println("Enter second Ratio number")
 		fmt.Scan(&r2)
-		r1 = (r1 + r2) / r1
-		r2 = (r1 + r2) / r2
-		fmt.Printf("%+2v ratio1 \n", r1)
-		fmt.Printf("%+2v ratio2 ", r2)
+		ratio1 := (r1 + r2) / r1
+		ratio2 := (r1 + r2) / r2
+		fmt.Printf("ratio of First Number is %v \n", ratio1)
+		fmt.Printf("ratio of Second number is %v \n", ratio2)
 	}()
 }
