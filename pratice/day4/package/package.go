@@ -16,8 +16,8 @@ func main() {
 		fmt.Println("1.Prime")
 		fmt.Println("2.ratio")
 		fmt.Println("3.Percentage")
-		fmt.Println("4.Add")
-		fmt.Println("5.Power")
+		fmt.Println("4.Power")
+		fmt.Println("5.Root")
 		fmt.Println("Choose One Option")
 		fmt.Scan(&i)
 		if i == 0 {
