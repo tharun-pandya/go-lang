@@ -42,7 +42,6 @@ func main() {
 	default:
 		fmt.Println("Invalid choice please enter index number")
 	}
-	fmt.Println("Enter choice")
 }
 func add(data []int) {
 	add := 0
